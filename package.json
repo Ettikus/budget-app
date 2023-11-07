@@ -1,5 +1,9 @@
 {
   "homepage": "https://github.com/Ettikus/budget-app"
+  "scripts":{
+    "predeploy":"npm run build",
+    "deploy":"gh-pages-d build"
+  }
   "name": "budget",
   "version": "0.1.0",
   "private": true,
