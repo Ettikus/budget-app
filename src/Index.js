@@ -1,8 +1,7 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
-import './index.css'; // your global styles
-
-import App from './Components/budgetapp'; 
+import './index.css'; 
+import App from './Components/BudgetApp'; 
 
 ReactDOM.render(
   <React.StrictMode>

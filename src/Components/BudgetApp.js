@@ -1,6 +1,6 @@
 import React, { useState, useRef } from 'react';
 import { useReactToPrint } from 'react-to-print';
-import './App.css'; // Import your CSS file for BudgetApp styling
+import './App.css';
 
 const BudgetApp = () => {
   const [budget, setBudget] = useState('');
