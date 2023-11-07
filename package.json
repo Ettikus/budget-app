@@ -1,4 +1,5 @@
 {
+  "homepage": "https://github.com/Ettikus/budget-app"
   "name": "budget",
   "version": "0.1.0",
   "private": true,
@@ -41,5 +42,4 @@
     "@babel/plugin-proposal-private-property-in-object": "^7.21.11",
     "gh-pages": "^6.0.0"
   },
-  "homepage": "https://github.com/Ettikus/budget-app"
 }
