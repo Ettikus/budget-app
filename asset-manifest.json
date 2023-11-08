@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Ettikus/budget-app/static/css/main.9b4da15e.css",
+    "main.js": "/Ettikus/budget-app/static/js/main.aabe64ea.js",
+    "index.html": "/Ettikus/budget-app/index.html",
+    "main.9b4da15e.css.map": "/Ettikus/budget-app/static/css/main.9b4da15e.css.map",
+    "main.aabe64ea.js.map": "/Ettikus/budget-app/static/js/main.aabe64ea.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9b4da15e.css",
+    "static/js/main.aabe64ea.js"
+  ]
+}
